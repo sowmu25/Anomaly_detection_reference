@@ -1,0 +1,23 @@
+Time Series Anomaly detection
+
+Tasks:
+	creating Workflow of Anomaly Detection on Time series data 
+		- (D:\Files\Metrics\Documents\Doc1.docx)
+	Working on different forecasting algorithms - validate to find the best model 
+		- holtwinters, Nbeatsmodel (D:\Files\Metrics\Documents\Exponential smoothening Model.docx)
+	working on different anomaly detecting algorithms - validate to find the best model 
+		- isolation forest, one class svm (D:\Files\Metrics\Documents\Anomaly_Detection_Documentation.docx)
+	Darts - python library for timeseries forecasting and anomaly detection
+		-  (https://unit8co.github.io/darts/README.html)
+
+To dos:
+	pattern identification which leads to anomaly
+	predictive maintenence 
+	Integrate the entire process 
+	
+
+challenges faced:
+	Installing darts library
+		- dependencies package installation issues
+			- trying to resolve by creating virtual environment to run darts library 
+		  	  which is a combination of ML and DL models (C:\Users\sowmiya.sivakumar\Darts_ts\Readme)

@@ -1,0 +1,15 @@
+Create conda environment
+    conda create -n myenv python=3.9
+    conda activate myenv
+    pip install -r requirements.txt
+    pip install darts
+    pip install --upgrade scikit-learn
+    #pip install --upgrade numpy pandas scipy matplotlib scikit-learn torch statsmodels
+
+
+TO use created env in jupyter notebook
+    Next, install ipykernel which provides the IPython kernel for Jupyter:
+
+    pip install --user ipykernel
+    python -m ipykernel install --user --name=myenv
+
